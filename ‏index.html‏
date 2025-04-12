@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>∆Ω-Unit.404</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="screen">
+    <h1 class="logo">∆Ω-Unit.404</h1>
+    <div class="symbols">𒀭𒈨𒌍𒅗𒄿𒀀𒂗𒁍</div>
+    <button class="ancient-button">𒀭𒋼𒋛</button>
+  </div>
+</body>
+</html>
