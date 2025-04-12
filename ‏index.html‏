@@ -1,16 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>∆Ω-Unit.404</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="screen">
-    <h1 class="logo">∆Ω-Unit.404</h1>
-    <div class="symbols">𒀭𒈨𒌍𒅗𒄿𒀀𒂗𒁍</div>
-    <button class="ancient-button">𒀭𒋼𒋛</button>
-  </div>
-</body>
+<html lang="en" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>MØkG.6.™</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="logo">MØkG.6.™</h1>
+      <p class="intro-text">مرحبًا بك في عالمٍ ليس كما تراه.</p>
+      <div class="secret-button">
+        <span>𒀭𒈨𒄿𒅗</span> <!-- "تفضل" بمسمارية -->
+      </div>
+    </div>
+  </body>
 </html>
